@@ -2,11 +2,10 @@
 Siarobo is a telegram bot based on [Telepot](https://github.com/nickoala/telepot) - http://telegram.me/siarobot
 
 ## How to Run ?
-First of all install Python >= 3.5 and then install `pip3`.
+First of all install Python >= 3.0 and then install `pip3`.
 ```
-sudo add-apt-repository ppa:fkrull/deadsnakes
 sudo apt-get update
-sudo apt-get install python3.5
+sudo apt-get install python3
 sudo apt-get install python3-pip
 ```
 OR Compile with Source:
